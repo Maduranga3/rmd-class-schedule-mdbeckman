@@ -1,29 +1,27 @@
 ---
 title: "RMarkdown Class Schedule"
-author: "your name here..."
-date: "September 5, 2018"
+author: "Shengkai Zheng"
+date: "August 30, 2021"
 output: html_notebook
 ---
 
 # Class Schedule
 
-### PSU 016: First-Year Seminar
+### STAT 184: Introduction to R
+This course will introduce students to data computing fundamentals and a reproducible workflow using the R programming language and related tools. 
 
-This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+[here is the link for this class](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
+This link doesn't have any pitures about STAT 184, so here is link for STAT184 building![](https://www.huck.psu.edu/assets/uploads/content-images/_1024xAUTO_fit_center-center_80/DSC_0626.JPG)
 
-For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+### STAT 414: Intro to Prob Theory
+This course is an introduction to the theory of probability for students in statistics, mathematics, engineering, computer science, and related fields. The course presents students with calculus-based probability concepts and those concepts can be used to describe the uncertainties present in real applications.
 
-![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+[here is the link for this class](https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/)
+This link doesn't have any pitures about STAT 414, so here is the link for STAT414 building![](https://th.bing.com/th/id/R.300d73d718a304b66ecb3ba234854e10?rik=SJ3vATdPT45SFA&pid=ImgRaw&r=0)
 
+### SOC 119N: Race,Ethnicity and Culture
+This course focuses on historical patterns and current status of racial, ethnic and cultural groups and issues locally, nationally, and internationally.Students will be able to more clearly explain how their identity reflects and shapes their life experiences as well as others in their racial and ethnic group.
 
-### STAT 184: Introduction to R Programmaing
-
-[your turn!]
-
-
-### [Additional Courses...]
-
-[your turn!]
-
-
+[here is the link for this class](https://bulletins.psu.edu/university-course-descriptions/undergraduate/soc/)
+This link doesn't have any pitures about SOC119N, so I found piture of SOC119N![](https://i.ytimg.com/vi/lvwqmIOrOPQ/maxresdefault.jpg)
 
